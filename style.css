@@ -1,0 +1,16 @@
+.class1{
+    font-size: 45px;
+    position: absolute;top: 250px;left: 395px;
+}
+.Image1{
+    width: 500px;
+    position: absolute;left: 430px;
+}
+.Page1{
+    font-size: 40px;
+    position: absolute;top: 500px;left: 350px;
+}
+.Page2{
+    font-size: 40px;
+    position: absolute;top: 500px;right: 350px;
+}
